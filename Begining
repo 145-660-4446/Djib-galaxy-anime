@@ -1,0 +1,28 @@
+<html>
+<head><title>Graffins college banner</title>
+
+<style type="text/css">
+a link{color:green; background-color:transparent; text-decoration:none;}
+a visited{color:pink; background-color:transparent; text-decoration:none;}
+a hover{color:red; background-color:none; text-decoration:underline;}
+a active{color:yellow; background-color:none; text-decoration:underline;}
+</style>
+
+</head>
+<body background="images\bg2.jpg">
+
+<center><font size="12" color="green"><marquee behavior="alternate">Graffins college</marquee></font></center>
+<table width="900px">
+<tr>
+<td><a href="home.html" target="main">Home</a></td>
+<td><a href="courses.html" target="main">Courses</a></td>
+<td><a href="registration.html" target="main">Registration</a></td>
+<td><a href="details.html"
+target="main">Details</a></td>
+<td><a href="http://www.google.co.ke" target="main">google</a></td>
+<td><a href="gallery.html" target="main">Gallery</a></td>
+<td><a href="contacts.html" target="main">Contacts</a></td>
+</tr>
+</table>
+</body>
+</html>
